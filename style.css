@@ -1,12 +1,23 @@
 head{
-  font-size: 100% ;
-  color: #FBD62B;
-  font-size: 100%;
-  background-color: #40B4FB;
-  text-align: center;
+
 }
 
 body{
   display: flex;
   flex-direction: column;
+}
+
+
+.text {
+  font-size: 75px;
+}
+
+.text2 {
+  color: green;
+  font-size: 100px;
+}
+
+.text2 {
+  color: blue;
+  font-size: 450px;
 }
